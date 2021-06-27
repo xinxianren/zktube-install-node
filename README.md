@@ -16,14 +16,17 @@ step3: start
 
 docker run -d -v ~/.revenue_address:/revenue_address --name zktube zktube/prover:rinkeby
 
-step: check log
+
+step4: check log
 
 docker logs --tail 100 -f zktube
 
 
 
 to get airdrop sign up:  https://zktube.moworks.co/sign-up/PXeThtcm
- zktube official website: https://zktube.io/
+
+
+zktube official website: https://zktube.io/
 
 
 go go go!

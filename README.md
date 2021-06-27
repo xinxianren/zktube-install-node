@@ -21,4 +21,9 @@ step: check log
 docker logs --tail 100 -f zktube
 
 
+
+to get airdrop sign up:  https://zktube.moworks.co/sign-up/PXeThtcm
+ zktube official website: https://zktube.io/
+
+
 go go go!

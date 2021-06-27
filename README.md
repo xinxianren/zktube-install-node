@@ -1,7 +1,10 @@
 step1: ubuntu install docker
 
 sudo apt-get update
+
 sudo apt-get install -y docker
+
+
 sudo apt-get install docker.io -y
 
 
